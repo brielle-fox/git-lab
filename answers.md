@@ -50,11 +50,7 @@ Date:   Wed Jan 21 19:43:31 2026 -0500
     Initial commit
 > ANSWER 9:
 > On branch main
-Your branch is up to date with 'origin/main'.
-
-Changes to be committed:
-  (use "git restore --staged <file>..." to unstage)
-        modified:   answers.md
+* main
 > ANSWER 10:
 Brielle Fox, brielle-fox
 CS 2400, Section 100
